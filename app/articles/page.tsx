@@ -1,7 +1,7 @@
 import HeaderTitle from "@/components/heading";
 import Menu from "@/components/menu";
 
-export default function HomePage() {
+export default function ArticlePage() {
   return (
     <>
       <header>
@@ -12,6 +12,7 @@ export default function HomePage() {
           <HeaderTitle
             title="Lorem ipsum"
             description="Neque porro quisquam est qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit..."
+            className="my-24 mx-12"
           />
           <div>
             <p>
