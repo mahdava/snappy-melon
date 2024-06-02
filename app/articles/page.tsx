@@ -11,7 +11,7 @@ export default function ArticlePage() {
         <section className="p-4">
           <HeaderTitle
             title="Lorem ipsum"
-            description="Neque porro quisquam est qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit..."
+            description="This HeaderTitle has some extra margin around it to fit better something like an article title"
             className="my-24 mx-12"
           />
           <div>

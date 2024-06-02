@@ -11,7 +11,7 @@ export default function AboutPage() {
         <section className="p-4">
           <HeaderTitle
             title="Lorem ipsum"
-            description="Neque porro quisquam est qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit..."
+            description="This HeaderTitle shows how much flexibility you can have while the component itself doesn't have to include natively any 'fixed' position"
             className="fixed right-0 top-24"
           />
         </section>

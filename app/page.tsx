@@ -11,7 +11,7 @@ export default function HomePage() {
         <section className="p-4">
           <HeaderTitle
             title="Lorem ipsum"
-            description="Neque porro quisquam est qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit..."
+            description="This HeaderTitle component doesn't have any extra spacing setting"
           />
           <div>
             <p>
